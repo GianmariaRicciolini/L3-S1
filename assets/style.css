@@ -1,0 +1,40 @@
+body {
+  font-family: "Merriweather", serif;
+  color: #333333;
+  text-align: center;
+}
+
+.logo {
+  height: auto;
+  width: 100px;
+}
+.focaccia {
+  height: auto;
+  width: 500px;
+  border-radius: 1.5%;
+}
+.document {
+  width: 50%;
+  text-align: left;
+  margin: auto;
+}
+.title {
+  background-color: #fdfbf1;
+  padding: 1rem;
+  border-top: 1px solid #ffd877;
+  color: #004d4c;
+  margin: 0px;
+  font-size: 0.7rem;
+}
+.featured {
+  border-left: 1px solid #ffd877;
+  padding-left: 1rem;
+  margin-top: 2rem;
+}
+.featured p {
+  color: #b5460f;
+}
+
+#anchor {
+  color: #107777;
+}
