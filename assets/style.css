@@ -18,13 +18,18 @@ body {
   text-align: left;
   margin: auto;
 }
-.title {
+.underlogo {
   background-color: #fdfbf1;
   padding: 1rem;
   border-top: 1px solid #ffd877;
   color: #004d4c;
   margin: 0px;
   font-size: 0.7rem;
+}
+.author {
+  color: #999999;
+  text-align: center;
+  margin-top: 1rem;
 }
 .featured {
   border-left: 1px solid #ffd877;
@@ -34,7 +39,16 @@ body {
 .featured p {
   color: #b5460f;
 }
+.list-header {
+  margin-top: 3rem;
+  border-bottom: 1px solid #c4f3f2;
+  padding-bottom: 2rem;
+  font-size: 1.5rem;
+}
 
 #anchor {
   color: #107777;
+}
+.titlelist {
+  font-weight: bold;
 }
