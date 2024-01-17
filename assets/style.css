@@ -38,6 +38,7 @@ body {
 }
 .featured p {
   color: #b5460f;
+  margin-bottom: 0px;
 }
 .list-header {
   margin-top: 3rem;
@@ -51,4 +52,8 @@ body {
 }
 .titlelist {
   font-weight: bold;
+}
+
+li {
+  padding: 8px;
 }
