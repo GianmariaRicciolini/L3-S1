@@ -10,7 +10,7 @@ body {
 }
 .focaccia {
   height: auto;
-  width: 500px;
+  width: 100%;
   border-radius: 1.5%;
 }
 .document {
